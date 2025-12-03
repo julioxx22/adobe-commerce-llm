@@ -1,5 +1,9 @@
 # System64 LLMs TXT Generator for Magento 2
 
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/system64/module-llmstxt-generator/total?style=flat-square&logo=github&label=Downloads)](https://github.com/system64/module-llmstxt-generator/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/system64/module-llmstxt-generator?style=flat-square&logo=github)](https://github.com/system64/module-llmstxt-generator/releases/latest)
+[![GitHub Stars](https://img.shields.io/github/stars/system64/module-llmstxt-generator?style=flat-square&logo=github)](https://github.com/system64/module-llmstxt-generator)
+
 A Magento 2 module that generates `llms.txt` files to help AI crawlers (ChatGPT, Claude, Gemini, Perplexity) better understand your e-commerce store content.
 
 ## What is llms.txt?
